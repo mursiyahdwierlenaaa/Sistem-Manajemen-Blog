@@ -1,2 +1,1 @@
-# Sistem-Manajemen-Blog
-web
+Sistem Manajemen Blog (CMS) adalah aplikasi web berbasis PHP yang dirancang untuk memudahkan pengelolaan konten blog secara efisien. Sistem ini menyediakan fitur manajemen data penulis, artikel, dan kategori artikel secara lengkap. Pengguna dapat menambahkan, mengubah, menghapus, serta mengelola informasi penulis dan artikel dengan struktur yang terorganisir. Aplikasi ini cocok digunakan sebagai media publikasi konten digital dan pembelajaran pengembangan web berbasis PHP.
