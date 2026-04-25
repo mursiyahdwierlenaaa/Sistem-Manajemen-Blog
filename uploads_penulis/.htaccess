@@ -1,0 +1,7 @@
+# Mencegah eksekusi file PHP
+<FilesMatch "\.php$">
+    Require all denied
+</FilesMatch>
+
+Options -ExecCGI
+AddHandler cgi-script .php .pl .py .jsp .asp .htm .shtml .sh .cgi
