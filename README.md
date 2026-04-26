@@ -31,42 +31,6 @@ Database dengan nama db_blog
 - Tabel "artikel" menyimpan artikel dengan relasi ke penulis dan kategori
 
 STRUKTUR FOLDER :
-blog/
-├── index.php                  # Halaman utama aplikasi
-├── koneksi.php                # Konfigurasi koneksi database
-│
-├── ambil_penulis.php          # Read semua penulis
-├── ambil_satu_penulis.php     # Read satu penulis (untuk edit)
-├── simpan_penulis.php         # Create penulis
-├── update_penulis.php         # Update penulis
-├── hapus_penulis.php          # Delete penulis
-│
-├── ambil_kategori.php         # Read semua kategori
-├── ambil_satu_kategori.php    # Read satu kategori (untuk edit)
-├── simpan_kategori.php        # Create kategori
-├── update_kategori.php        # Update kategori
-├── hapus_kategori.php         # Delete kategori
-│
-├── ambil_artikel.php          # Read semua artikel
-├── ambil_satu_artikel.php     # Read satu artikel (untuk edit)
-├── simpan_artikel.php         # Create artikel
-├── update_artikel.php         # Update artikel
-├── hapus_artikel.php          # Delete artikel
-│
-├── db_blog.sql                # File ekspor database
-│
-├── uploads_penulis/           # Folder foto profil penulis
-│   ├── .htaccess              # Proteksi eksekusi PHP
-│   └── default.png            # Foto default jika tidak upload
-│
-└── uploads_artikel/           # Folder gambar artikel
-    └── .htaccess              # Proteksi eksekusi PHP
-
-
-
-
-
-
 ```
 blog/
 ├── index.php                  # Halaman utama aplikasi
